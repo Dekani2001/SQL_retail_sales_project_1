@@ -208,7 +208,7 @@ GROUP BY shift;
 
 1.*Sales Volume & Customers → Large number of transactions, diverse customer base.*
 
-2. *Category Analysis → Clothing & Beauty categories performed strongly; Beauty attracted younger customers.*
+2.*Category Analysis → Clothing & Beauty categories performed strongly; Beauty attracted younger customers.*
 
 3.*High-Value Transactions → Multiple sales > 1000 units, major revenue drivers.*
 
