@@ -6,11 +6,11 @@ This project focuses on analyzing retail sales data using SQL. The goal is to cl
 
 ## 2. Objectives
 
-1. **Build and populate a retail sales database.
-2. **Perform data cleaning to remove missing or inconsistent records.
-3. **Explore the dataset to understand sales distribution and customer demographics.
-4. **Solve key business questions using SQL queries.
-5. **Summarize findings to highlight trends and actionable insights.
+1. **Build and populate a retail sales database.**
+2. **Perform data cleaning to remove missing or inconsistent records.**
+3. **Explore the dataset to understand sales distribution and customer demographics.**
+4. **Solve key business questions using SQL queries.**
+5. **Summarize findings to highlight trends and actionable insights.**
 
 ## 3. Project Structure
 ### 🔹 Database Creation
