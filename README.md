@@ -206,11 +206,11 @@ GROUP BY shift;
 
 ## 📊 Report & Insights
 
--*Sales Volume & Customers → Large number of transactions, diverse customer base.*
--*Category Analysis → Clothing & Beauty categories performed strongly; Beauty attracted younger customers.*
--*High-Value Transactions → Multiple sales > 1000 units, major revenue drivers.*
--*Customer Behavior → Top 5 customers made a big contribution to sales; category-wise customer preferences varied.*
--*Time-Based Trends → Afternoon & Evening shifts showed higher sales; some months outperformed others due to seasonality.*
+1.*Sales Volume & Customers → Large number of transactions, diverse customer base.*
+2. *Category Analysis → Clothing & Beauty categories performed strongly; Beauty attracted younger customers.*
+3.*High-Value Transactions → Multiple sales > 1000 units, major revenue drivers.*
+4.*Customer Behavior → Top 5 customers made a big contribution to sales; category-wise customer preferences varied.*
+5.*Time-Based Trends → Afternoon & Evening shifts showed higher sales; some months outperformed others due to seasonality.*
 
 ## ✅ Conclusion
 
